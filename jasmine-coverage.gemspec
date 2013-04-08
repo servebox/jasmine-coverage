@@ -17,5 +17,4 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'jasmine-headless-webkit', '>=0.9.0.rc.2'
   s.add_dependency 'coffee-script-source'
-  s.add_dependency 'headless'
 end
